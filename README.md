@@ -1,3 +1,3 @@
 # first_project
-<button>SoftUni Projects</button>
+<std>SoftUni Projects</std>
 My first try to make repository
